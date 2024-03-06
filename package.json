@@ -13,6 +13,8 @@
   "author": "Hamou ait abderrahim",
   "license": "ISC",
   "dependencies": {
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.23.3",
     "axios": "^1.6.5",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
