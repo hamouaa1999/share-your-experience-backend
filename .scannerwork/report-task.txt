@@ -1,0 +1,6 @@
+projectKey=share-your-experience
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=share-your-experience
+ceTaskId=d88c3f82-6213-462f-bf33-23b84c131d6f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d88c3f82-6213-462f-bf33-23b84c131d6f
